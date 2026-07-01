@@ -108,6 +108,7 @@ Every stage followed the same evidence-first principle: no value was ever fabric
 - `README.md` — this report
 - `data_cleaning_pipeline.sql` — full, ordered SQL script with inline comments covering all 12 pipeline steps
 - Raw and cleaned CSV exports (uncleaned and final datasets), enabling row-by-row verification of the transformation against this documented procedure
+- Project report — detailed project report describing the cleaning process, SQL queries, decisions made, issues identified, and final outcomes
 
 ---
 

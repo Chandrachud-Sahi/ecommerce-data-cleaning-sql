@@ -1,0 +1,721 @@
+order_id,order_date,customer_id,customer_name,city,state,category,product,quantity,unit_price,payment_method,order_status
+10001,05/01/2025,C1200,Sneha,New Delhi,NCT Delhi,Fashion,T-Shirt,4,799,Net Banking,Cancelled
+10002,01/06/2025,C1100,Neha,Bangalore,Karnatak,Home,Chair,2,299,Cash on Delivery,Shipped
+10003,16/01/2025,C1125,Priya,mumbai,Maharashtra,Home,Lamp,1,799,,Delivered
+10004,2025-05-10,C1128,Karan,delhi,Delhi,Electronic,Headphones,1,499,Cash on Delivery,Cancelled
+10005,15/05/2025,C1040,Amit,mumbai,maharashtra,Fashion,Jeans,5,499,UPI,Delivered
+10006,2025-03-22,C1095,Karan,Delhi,NCT Delhi,home,Chair,4,1999,Card,Delivered
+10007,02/18/2025,C1068,Karan,delhi,,Electronic,Headphones,1,799,UPI,Shipped
+10008,03/21/2025,C1198,Karan,Bangalore,Karnatak,Home,,4,1299,Cash on Delivery,Cancelled
+10009,06/23/2025,C1084,Priya,Bombay,,Fashion,Jeans,5,1299,UPI,Delivered
+10010,02/15/2025,C1015,Sneha,Mumbai,Maharashtra,Electronics,Headphones,4,299,Card,Delivered
+10011,08-Apr-2025,C1184,Sneha,Pune,Maharastra,Electronics,Mouse,3,299,UPI,Shipped
+10012,2025-04-28,C1137,Anjali,Pune,Maharastra,Electronic,Mouse,5,1999,,Shipped
+10013,03/22/2025,C1022,Neha,delhi,Delhi,fashion,T-Shirt,1,799,Net Banking,Delivered
+10014,26/02/2025,C1156,Neha, bengaluru ,Karnatak,Electornics,Mouse,3,1999,UPI,Shipped
+10015,11-Apr-2025,C1127,Rahul,lucknow,UttarPradesh,Hme,Chair,5,1299,UPI,Shipped
+10016,2025-02-14,C1097,Amit,Lucknow,UttarPradesh,Fashion,Jeans,1,499,Card,Cancelled
+10017,2025-03-12,C1179,Amit,lucknow,UP,Home,Lamp,2,299,Net Banking,Delivered
+10018,02-Jun-2025,C1097,Priya,Mumbai,Maharashtra,Electronics,Mouse,5,299,,Delivered
+10019,29/03/2025,C1168,Neha,Bengaluru,Karnatak,Electronics,Headphones,2,1999,Cash on Delivery,Cancelled
+10020,11-Mar-2025,C1194,Rahul,lucknow,UP,Electronics,Keyboard,1,499,Cash on Delivery,Delivered
+10021,01/07/2025,C1053,Karan,lucknow,UttarPradesh,Electronic,Mouse,4,299,Cash on Delivery,Delivered
+10022,03/13/2025,C1051,Sneha,Bangalore,Karnataka,fashion,T-Shirt,2,799,Cash on Delivery,Shipped
+10023,24/05/2025,C1111,Priya,lucknow,Uttar Pradesh,home,Lamp,1,299,Card,Delivered
+10024,17/03/2025,C1162,Rahul,delhi,NCT Delhi,Electronics,Keyboard,5,299,Cash on Delivery,Shipped
+10025,2025-03-16,C1031,Vikram,Bangalore,Karnatak,fashion,Jeans,2,1299,Card,Returned
+10026,23-Jun-2025,C1190,Amit,Lucknow,UttarPradesh,Electronics,Mouse,3,299,Net Banking,Delivered
+10027,30/03/2025,C1003,Rahul,Pune,Maharashtra,Hme,Chair,3,1999,Card,Cancelled
+10028,25-Apr-2025,C1034,Anjali,Lucknow,UttarPradesh,electronics,Keyboard,4,299,,Cancelled
+10029,04/08/2025,C1185,Anjali,Bengaluru,Karnataka,Fashon,T-Shirt,2,1999,UPI,Cancelled
+10030,06/01/2025,C1194,Priya,Bangalore,Karnataka,Electronics,Mouse,2,1299,,Shipped
+10031,05/21/2025,C1009,Vikram,mumbai,Maharastra,home,Lamp,3,299,UPI,Shipped
+10032,19-Mar-2025,C1121,Rahul,delhi,NCT Delhi,Hme,Chair,2,499,UPI,Cancelled
+10033,31/05/2025,C1064,Sneha,PUNE ,Maharastra,Hme,Lamp,3,1999,Net Banking,Returned
+10034,2025-03-31,C1132,Vikram,Bombay,Maharastra,home,Lamp,3,1999,,Shipped
+10035,05/22/2025,C1037,Rahul,Mumbai,maharashtra,Home,Chair,2,799,Cash on Delivery,Shipped
+10036,2025-03-24,C1160,Anjali,New Delhi,NCT Delhi,Electronics,,3,299,UPI,Delivered
+10037,01/22/2025,C1083,Anjali,lucknow,UttarPradesh,Fashion,Jeans,2,799,UPI,Cancelled
+10038,02-Jun-2025,C1093,Rahul,Delhi,Delhi,Electronics,Headphones,1,799,Card,Returned
+10039,28-Apr-2025,C1191,Priya,Delhi,NCT Delhi,Electronics,Keyboard,3,799,UPI,Cancelled
+10040,29-Jan-2025,C1090,Amit,Poona,Maharashtra,Fashion,T-Shirt,3,1999,Card,Returned
+10041,2025-03-09,C1152,Neha,PUNE ,maharashtra,Fashon,Jeans,4,799,Cash on Delivery,Cancelled
+10042,04/30/2025,C1066,Amit,New Delhi,NCT Delhi,Electornics,Keyboard,2,799,Net Banking,Shipped
+10043,21-Jun-2025,C1034,Priya,Lucknow,Uttar Pradesh,Hme,Lamp,5,1999,Card,Delivered
+10044,2025-05-31,C1017,Neha,Bengaluru,Karnatak,home,Chair,5,1299,,Shipped
+10045,02-Mar-2025,C1032,Rahul, bengaluru ,Karnataka,Fashion,T-Shirt,4,299,,Cancelled
+10046,23-Mar-2025,C1055,Karan, bengaluru ,Karnataka,Fashion,T-Shirt,5,1999,UPI,Delivered
+10047,27/02/2025,C1063,Priya, bengaluru ,Karnataka,fashion,T-Shirt,1,999999,Net Banking,Delivered
+10048,25-Mar-2025,C1006,Rahul,Bangalore,Karnataka,Electornics,,5,1299,Card,Delivered
+10049,09-Apr-2025,C1049,Priya,Bombay,Maharashtra,Electronics,Headphones,1,1299,,Returned
+10050,2025-06-26,C1098,Anjali,Bengaluru,Karnatak,home,Lamp,2,299,,Shipped
+10051,2025-01-29,C1094,Karan,Lucknow,Uttar Pradesh,Fashon,Jeans,4,499,Card,Cancelled
+10052,02/28/2025,C1127,Vikram,Delhi,Delhi,home,Chair,2,1299,,Returned
+10053,07/05/2025,C1123,Sneha,Delhi,NCT Delhi,fashion,Jeans,3,1299,Card,Returned
+10054,2025-05-04,C1019,Vikram,Poona,Maharastra,Electronic,Headphones,1,299,,Shipped
+10055,23-Feb-2025,C1005,Priya,Lucknow,Uttar Pradesh,Electronics,Keyboard,1,799,,Cancelled
+10056,06/27/2025,C1145,Amit,mumbai,Maharastra,Fashion,T-Shirt,2,799,Card,Returned
+10057,05/17/2025,C1064,Sneha, bengaluru ,,home,Chair,3,1999,Card,Returned
+10058,04/24/2025,C1126,Rahul, bengaluru ,Karnataka,Home,,5,1299,Card,Delivered
+10059,2025-01-04,C1002,Neha,lucknow,Uttar Pradesh,Fashon,Jeans,4,1999,UPI,Cancelled
+10060,16/02/2025,C1030,Sneha,PUNE ,Maharastra,Hme,Lamp,2,1299,Card,Delivered
+10061,2025-05-12,C1065,Vikram,New Delhi,Delhi,Electronics,,2,799,Net Banking,Delivered
+10062,2025-02-25,C1096,Priya,lucknow,Uttar Pradesh,Fashion,Jeans,5,1299,Card,Shipped
+10063,05-Apr-2025,C1150,Sneha,lucknow,UttarPradesh,Hme,,1,1299,Cash on Delivery,Returned
+10064,22/01/2025,C1103,Karan, bengaluru ,Karnataka,home,Lamp,1,1999,,Cancelled
+10065,03/08/2025,C1139,Amit,lucknow,UP,Electronic,Mouse,5,299,UPI,Returned
+10066,20-Jun-2025,C1064,Anjali,PUNE ,Maharashtra,fashion,Jeans,4,499,Net Banking,Shipped
+10067,30/03/2025,C1052,Amit,delhi,NCT Delhi,Home,Chair,4,1999,Cash on Delivery,Shipped
+10068,23/04/2025,C1143,Amit,delhi,NCT Delhi,Hme,Chair,1,299,Cash on Delivery,Shipped
+10069,25/02/2025,C1092,Priya,Poona,Maharastra,Fashon,T-Shirt,4,299,UPI,Delivered
+10070,2025-06-15,C1191,Priya,Delhi,Delhi,Fashon,Jeans,5,1299,UPI,Shipped
+10071,2025-03-06,C1018,Neha, bengaluru ,Karnataka,fashion,Jeans,4,499,Net Banking,Delivered
+10072,2025-04-13,C1003,Sneha,PUNE ,Maharastra,Electronic,Headphones,4,1299,UPI,Cancelled
+10073,22-Jan-2025,C1092,Rahul,Delhi,Delhi,Electornics,Mouse,5,299,Card,Returned
+10074,10/06/2025,C1083,Rahul,Lucknow,UttarPradesh,Electronic,Mouse,2,499,Cash on Delivery,Cancelled
+10075,09/06/2025,C1017,Priya,Bengaluru,Karnatak,Hme,Chair,3,299,Cash on Delivery,Shipped
+10076,2025-06-06,C1066,Priya,Bengaluru,Karnataka,Fashon,Jeans,1,299,Cash on Delivery,Shipped
+10077,2025-01-06,C1059,Sneha,mumbai,Maharastra,Fashon,Jeans,1,499,Card,Cancelled
+10078,2025-04-29,C1107,Rahul,Lucknow,Uttar Pradesh,Fashion,Jeans,1,299,,Cancelled
+10079,2025-01-27,C1038,Sneha,Bangalore,Karnataka,Electronic,Mouse,4,299,Net Banking,Cancelled
+10080,18-Feb-2025,C1176,Vikram,Lucknow,Uttar Pradesh,Electronic,,5,799,UPI,Shipped
+10081,14/05/2025,C1165,Priya,Mumbai,maharashtra,Fashon,Jeans,3,1999,Cash on Delivery,Shipped
+10082,04/08/2025,C1140,Neha,Lucknow,UP,Fashon,T-Shirt,2,1999,Net Banking,Shipped
+10083,02/01/2025,C1035,Vikram,Bombay,maharashtra,electronics,Mouse,2,1299,,Delivered
+10084,2025-02-24,C1082,Rahul,Lucknow,Uttar Pradesh,Fashion,Jeans,2,1999,Net Banking,Shipped
+10085,20-Mar-2025,C1119,Vikram,lucknow,Uttar Pradesh,Electronic,Headphones,4,799,UPI,Delivered
+10086,19-Apr-2025,C1136,Vikram, bengaluru ,Karnatak,fashion,T-Shirt,2,499,,Returned
+10087,11-Mar-2025,C1107,Anjali,Lucknow,UttarPradesh,Fashion,Jeans,3,799,,Returned
+10088,2025-02-10,C1134,Priya,Delhi,NCT Delhi,Electronics,Headphones,1,1299,UPI,Returned
+10089,06/16/2025,C1077,Vikram,New Delhi,Delhi,Electronics,Headphones,1,1999,Net Banking,Returned
+10090,06-Jun-2025,C1185,Anjali,Lucknow,UttarPradesh,Fashon,T-Shirt,5,1299,Card,Delivered
+10091,16-Jan-2025,C1198,Neha,Mumbai,maharashtra,fashion,Jeans,5,1999,Card,Returned
+10092,30/01/2025,C1040,Sneha,Pune,Maharastra,Home,Chair,4,499,Cash on Delivery,Returned
+10093,02/12/2025,C1122,Neha,lucknow,UttarPradesh,Hme,Lamp,2,1999,,Delivered
+10094,08-Mar-2025,C1184,Karan,Delhi,Delhi,Fashion,T-Shirt,1,499,Net Banking,Cancelled
+10095,31/01/2025,C1065,Vikram,Lucknow,UP,home,Chair,3,499,UPI,Shipped
+10096,2025-03-29,C1032,Amit,mumbai,Maharastra,electronics,Headphones,4,499,Cash on Delivery,Returned
+10097,01/02/2025,C1173,Vikram,lucknow,Uttar Pradesh,Fashon,T-Shirt,1,299,UPI,Cancelled
+10098,27/01/2025,C1061,Karan,Delhi,Delhi,Fashion,T-Shirt,4,1999,Net Banking,Returned
+10099,2025-06-14,C1104,Rahul,New Delhi,NCT Delhi,Electornics,Keyboard,1,499,Card,Delivered
+10100,06/17/2025,C1122,Rahul,lucknow,Uttar Pradesh,electronics,Keyboard,5,299,Card,Cancelled
+10101,25/06/2025,C1032,Anjali,Delhi,NCT Delhi,Electronics,Keyboard,1,799,,Shipped
+10102,18/02/2025,C1193,Vikram,Lucknow,UttarPradesh,Home,Lamp,5,1999,,Cancelled
+10103,04/28/2025,C1039,Priya,mumbai,Maharashtra,home,Chair,4,299,UPI,Cancelled
+10104,27-Apr-2025,C1156,Karan,Bengaluru,Karnatak,Electornics,Headphones,3,299,,Cancelled
+10105,22-Feb-2025,C1039,Neha,Pune,Maharashtra,Fashion,Jeans,1,1299,Net Banking,Delivered
+10106,01/21/2025,C1158,Amit, MUMBAI ,Maharashtra,Hme,Chair,5,499,UPI,Delivered
+10107,01/27/2025,C1004,Neha,Mumbai,maharashtra,Electronic,Keyboard,3,1999,Card,Delivered
+10108,11/06/2025,C1082,Priya,Mumbai,Maharashtra,Fashion,Jeans,1,799,UPI,Cancelled
+10109,03/10/2025,C1131,Vikram,delhi,NCT Delhi,Fashon,T-Shirt,5,299,Cash on Delivery,Returned
+10110,27/01/2025,C1058,Karan,lucknow,UttarPradesh,Home,Chair,1,499,Card,Returned
+10111,30-Apr-2025,C1031,Anjali,PUNE ,maharashtra,fashion,T-Shirt,4,499,Card,Cancelled
+10112,20-Jan-2025,C1022,Priya,Lucknow,Uttar Pradesh,Hme,Lamp,1,1999,UPI,Shipped
+10113,06/05/2025,C1057,Vikram,Pune,maharashtra,Electornics,Headphones,5,1999,UPI,Cancelled
+10114,2025-05-30,C1032,Amit, bengaluru ,Karnatak,Hme,Lamp,2,499,UPI,Cancelled
+10115,05/03/2025,C1067,Vikram,lucknow,UP,electronics,Keyboard,4,499,,Shipped
+10116,04/27/2025,C1021,Sneha,Lucknow,UttarPradesh,Hme,Chair,3,1999,,Shipped
+10117,2025-05-30,C1023,Karan,Delhi,NCT Delhi,Electronic,Headphones,3,1299,Card,Delivered
+10118,2025-05-05,C1138,Vikram,PUNE ,Maharastra,Electronic,Headphones,1,299,Net Banking,Delivered
+10119,08-May-2025,C1125,Anjali,lucknow,Uttar Pradesh,Hme,Chair,4,799,Card,Shipped
+10120,06/24/2025,C1175,Sneha,Mumbai,maharashtra,Fashon,Jeans,4,1999,UPI,Returned
+10121,30/01/2025,C1097,Anjali,lucknow,UP,Home,Lamp,5,299,Net Banking,Returned
+10122,2025-05-02,C1016,Sneha,PUNE ,maharashtra,home,Chair,4,799,Cash on Delivery,Delivered
+10123,02/19/2025,C1138,Vikram,PUNE ,Maharastra,home,Lamp,4,799,Cash on Delivery,Shipped
+10124,28/05/2025,C1146,Vikram,delhi,,fashion,T-Shirt,3,299,UPI,Returned
+10125,29-Mar-2025,C1009,Amit,Mumbai,Maharastra,Fashon,Jeans,5,499,Cash on Delivery,Cancelled
+10126,2025-05-05,C1008,Neha,Lucknow,Uttar Pradesh,Electronics,Mouse,1,499,,Returned
+10127,27-May-2025,C1091,Sneha,Lucknow,UP,Hme,Chair,2,299,UPI,Delivered
+10128,04/06/2025,C1003,Karan,Bangalore,Karnataka,Fashon,Jeans,2,799,UPI,Shipped
+10129,02/24/2025,C1180,Vikram,delhi,NCT Delhi,fashion,T-Shirt,5,799,UPI,Shipped
+10130,05/23/2025,C1087,Sneha,New Delhi,NCT Delhi,home,Chair,4,1299,,Shipped
+10131,2025-06-29,C1189,Sneha,lucknow,UP,Electornics,Mouse,5,799,Card,Delivered
+10132,28/01/2025,C1021,Vikram, bengaluru ,Karnatak,Fashion,T-Shirt,2,1999,Cash on Delivery,Shipped
+10133,14-Jun-2025,C1016,Sneha,mumbai,Maharashtra,Electronic,Headphones,3,1999,Net Banking,Cancelled
+10134,2025-04-24,C1146,Rahul, MUMBAI ,,fashion,Jeans,5,1999,,Returned
+10135,31-May-2025,C1128,Amit,Pune,maharashtra,Hme,Lamp,2,499,Net Banking,Cancelled
+10136,05-Feb-2025,C1121,Sneha,Lucknow,UttarPradesh,electronics,Mouse,2,1999,,Shipped
+10137,06-Apr-2025,C1018,Amit,Bangalore,Karnataka,Home,Lamp,2,299,,Shipped
+10138,02-Mar-2025,C1064,Neha,Lucknow,UP,fashion,T-Shirt,999,1999,UPI,Returned
+10139,2025-04-10,C1091,Karan,lucknow,UP,Fashon,T-Shirt,3,799,Cash on Delivery,Returned
+10140,12/01/2025,C1141,Rahul,Lucknow,UP,electronics,Headphones,5,499,UPI,Delivered
+10141,28/06/2025,C1197,Sneha,delhi,Delhi,Home,Lamp,5,1299,Net Banking,Delivered
+10142,10-Mar-2025,C1177,Vikram,delhi,NCT Delhi,Electornics,Headphones,3,1299,Net Banking,Delivered
+10143,03/23/2025,C1107,Vikram,Mumbai,maharashtra,Fashon,Jeans,1,799,UPI,Shipped
+10144,30-Apr-2025,C1091,Karan, bengaluru ,Karnatak,Hme,Chair,3,299,UPI,Cancelled
+10145,17/01/2025,C1122,Vikram,Delhi,,Electronics,Keyboard,4,799,Net Banking,Returned
+10146,21-Mar-2025,C1124,Rahul,New Delhi,NCT Delhi,home,Lamp,2,1299,,Shipped
+10147,2025-04-14,C1198,Neha,Mumbai,maharashtra,Fashon,T-Shirt,4,1999,Card,Returned
+10148,2025-03-26,C1085,Neha,New Delhi,NCT Delhi,Fashon,T-Shirt,3,799,Card,Shipped
+10149,2025-05-16,C1038,Rahul,Mumbai,Maharashtra,Electronic,Keyboard,4,499,Net Banking,Cancelled
+10150,04/08/2025,C1078,Vikram,Mumbai,Maharashtra,Fashon,Jeans,4,1999,Card,Returned
+10151,13/04/2025,C1019,Sneha,Pune,maharashtra,Fashon,T-Shirt,1,499,Cash on Delivery,Shipped
+10152,04/06/2025,C1062,Amit,Pune,maharashtra,Home,Lamp,5,799,Card,Shipped
+10153,09/01/2025,C1005,Sneha,Bangalore,Karnataka,home,,2,1999,Card,Shipped
+10154,19-Mar-2025,C1123,Priya,New Delhi,Delhi,home,Chair,4,499,Card,Shipped
+10155,09-May-2025,C1126,Anjali, MUMBAI ,Maharastra,Hme,Lamp,3,299,Net Banking,Shipped
+10156,01-Jan-2025,C1104,Vikram,Lucknow,UttarPradesh,Electronics,,3,499,Cash on Delivery,Shipped
+10157,01/26/2025,C1090,Karan,Bombay,Maharastra,Home,Chair,1,299,Net Banking,Returned
+10158,03/27/2025,C1094,Neha, bengaluru ,Karnataka,electronics,Mouse,4,499,Net Banking,Returned
+10159,03/30/2025,C1042,Amit,Mumbai,Maharashtra,Fashion,T-Shirt,1,799,,Shipped
+10160,15/03/2025,C1105,Karan,lucknow,UP,Fashon,T-Shirt,1,299,Card,Cancelled
+10161,18/03/2025,C1162,Anjali,Delhi,Delhi,Home,Chair,3,1299,Card,Shipped
+10162,28-May-2025,C1078,Sneha,New Delhi,Delhi,Fashon,Jeans,3,1999,Cash on Delivery,Returned
+10163,20-Apr-2025,C1006,Amit,Mumbai,maharashtra,Hme,Lamp,2,1999,Cash on Delivery,Cancelled
+10164,03/28/2025,C1061,Vikram, bengaluru ,,Electronic,Mouse,1,499,Card,Cancelled
+10165,02/14/2025,C1102,Sneha,delhi,Delhi,Fashion,Jeans,1,799,,Delivered
+10166,01/01/2025,C1125,Karan,Bengaluru,Karnatak,Fashion,T-Shirt,5,1299,,Shipped
+10167,05/22/2025,C1192,Karan,delhi,Delhi,Fashion,T-Shirt,5,1299,Cash on Delivery,Shipped
+10168,2025-01-07,C1154,Vikram,Lucknow,UttarPradesh,fashion,Jeans,-2,1999,,Delivered
+10169,01/11/2025,C1063,Rahul,Mumbai,Maharashtra,Electornics,Keyboard,4,1299,Cash on Delivery,Returned
+10170,01/22/2025,C1005,Neha,Lucknow,UP,Electornics,Keyboard,2,1299,UPI,Returned
+10171,2025-01-12,C1169,Vikram,lucknow,UP,electronics,Headphones,3,1299,Card,Shipped
+10172,2025-06-28,C1181,Vikram,lucknow,UP,fashion,T-Shirt,1,299,Net Banking,Shipped
+10173,2025-03-01,C1055,Vikram,lucknow,UP,Electornics,Headphones,4,499,Net Banking,Shipped
+10174,05/10/2025,C1035,Anjali,Poona,maharashtra,Electornics,Headphones,2,499,Cash on Delivery,Shipped
+10175,17/01/2025,C1025,Priya,Poona,Maharashtra,Hme,Lamp,5,499,Net Banking,Shipped
+10176,10-Feb-2025,C1116,Anjali,lucknow,UP,electronics,Mouse,2,-100,,Returned
+10177,2025-06-08,C1193,Sneha,Bangalore,Karnatak,Fashion,Jeans,4,799,UPI,Returned
+10178,2025-04-05,C1052,Priya,PUNE ,Maharashtra,Hme,Chair,1,299,UPI,Delivered
+10179,2025-02-02,C1166,Vikram,Lucknow,Uttar Pradesh,Electronics,Headphones,1,1299,Card,Returned
+10180,2025-05-06,C1166,Vikram,Bombay,maharashtra,Hme,Chair,5,1999,Cash on Delivery,Returned
+10181,2025-02-16,C1062,Anjali,Bengaluru,Karnataka,fashion,,4,499,,Delivered
+10182,2025-04-13,C1004,Priya,Lucknow,Uttar Pradesh,electronics,Headphones,3,1299,Net Banking,Cancelled
+10183,06/02/2025,C1137,Amit,Bombay,maharashtra,home,Chair,2,299,Cash on Delivery,Returned
+10184,15-Jun-2025,C1029,Sneha,delhi,NCT Delhi,Electronics,Headphones,4,499,Net Banking,Delivered
+10185,05/16/2025,C1103,Sneha,New Delhi,Delhi,electronics,Keyboard,5,299,UPI,Cancelled
+10186,26-May-2025,C1140,Sneha,lucknow,UP,fashion,T-Shirt,5,799,Net Banking,Cancelled
+10187,2025-01-18,C1131,Sneha,Bangalore,Karnataka,Fashion,T-Shirt,1,499,Cash on Delivery,Cancelled
+10188,23/02/2025,C1085,Vikram,Bombay,Maharashtra,Electronic,Keyboard,4,1999,UPI,Cancelled
+10189,2025-05-23,C1071,Anjali,Lucknow,Uttar Pradesh,fashion,Jeans,3,1999,,Returned
+10190,15/06/2025,C1053,Karan,lucknow,Uttar Pradesh,fashion,T-Shirt,4,799,,Delivered
+10191,2025-04-03,C1174,Amit,Lucknow,Uttar Pradesh,Electornics,Mouse,4,299,Net Banking,Cancelled
+10192,26-May-2025,C1076,Karan,Bengaluru,Karnataka,electronics,Keyboard,1,1299,,Returned
+10193,13-Mar-2025,C1131,Sneha,delhi,NCT Delhi,Electornics,Mouse,4,1299,Cash on Delivery,Cancelled
+10194,10/06/2025,C1030,Amit,Pune,Maharashtra,Electronic,Headphones,0,1299,Net Banking,Cancelled
+10195,2025-02-24,C1170,Sneha,Pune,,home,Lamp,5,1299,Net Banking,Shipped
+10196,02-Jan-2025,C1193,Priya,Bombay,Maharashtra,Fashion,Jeans,2,499,Net Banking,Shipped
+10197,20-Feb-2025,C1149,Rahul,Delhi,Delhi,Fashion,Jeans,4,499,UPI,Returned
+10198,02/17/2025,C1046,Karan,Bangalore,Karnataka,Fashion,Jeans,1,1999,Net Banking,Cancelled
+10199,16-Mar-2025,C1105,Amit, bengaluru ,Karnataka,Home,Lamp,3,799,Cash on Delivery,Cancelled
+10200,01/29/2025,C1162,Karan,Lucknow,UttarPradesh,Electronics,Mouse,2,999999,Net Banking,Shipped
+10201,2025-05-06,C1061,Rahul,delhi,Delhi,home,Lamp,1,1299,Card,Delivered
+10202,04-Apr-2025,C1036,Vikram,Delhi,Delhi,Fashion,T-Shirt,5,799,UPI,Delivered
+10203,07-Jun-2025,C1130,Anjali,lucknow,Uttar Pradesh,Fashion,Jeans,5,1299,Net Banking,Shipped
+10204,05/19/2025,C1077,Amit,PUNE ,Maharastra,electronics,Headphones,3,1999,UPI,Shipped
+10205,02/05/2025,C1077,Vikram,Mumbai,Maharashtra,Fashon,T-Shirt,2,799,Card,Delivered
+10206,2025-05-03,C1139,Amit,Bengaluru,,fashion,T-Shirt,4,1299,Card,Shipped
+10207,03/06/2025,C1047,Amit,mumbai,maharashtra,Electornics,Headphones,3,1999,Net Banking,Shipped
+10208,29/01/2025,C1033,Anjali, MUMBAI ,Maharashtra,Home,Chair,1,1999,Net Banking,Cancelled
+10209,2025-01-21,C1065,Sneha, bengaluru ,Karnatak,Fashon,T-Shirt,5,299,,Delivered
+10210,13-Mar-2025,C1126,Vikram,PUNE ,maharashtra,Electornics,Mouse,2,499,UPI,Cancelled
+10211,2025-05-03,C1005,Anjali,mumbai,maharashtra,Hme,Chair,2,799,,Returned
+10212,2025-01-26,C1161,Karan,delhi,Delhi,Hme,,2,-100,Net Banking,Shipped
+10213,02/24/2025,C1041,Amit,Poona,Maharastra,fashion,T-Shirt,4,799,Net Banking,Shipped
+10214,25/04/2025,C1133,Neha,Poona,maharashtra,Electornics,Headphones,2,299,,Cancelled
+10215,21-Jun-2025,C1012,Anjali,Pune,maharashtra,home,Chair,4,1999,,Delivered
+10216,10/02/2025,C1171,Rahul,Poona,Maharashtra,Fashion,Jeans,1,499,Net Banking,Returned
+10217,04/22/2025,C1179,Neha,Bangalore,Karnatak,Home,Chair,2,1999,,Shipped
+10218,07-May-2025,C1081,Rahul,Bangalore,Karnatak,Fashion,Jeans,2,799,Net Banking,Delivered
+10219,02/01/2025,C1179,Vikram,Mumbai,maharashtra,Electronics,Mouse,4,499,UPI,Cancelled
+10220,18/03/2025,C1198,Rahul,Delhi,Delhi,Hme,Chair,4,299,UPI,Cancelled
+10221,05/30/2025,C1001,Rahul,New Delhi,Delhi,Home,Lamp,4,299,Net Banking,Delivered
+10222,03/28/2025,C1094,Karan,lucknow,UttarPradesh,Electornics,Keyboard,2,499,Cash on Delivery,Delivered
+10223,2025-01-19,C1013,Anjali,Bombay,maharashtra,Fashon,T-Shirt,1,299,Card,Cancelled
+10224,2025-04-27,C1074,Karan,delhi,NCT Delhi,Fashon,Jeans,1,1999,Cash on Delivery,Shipped
+10225,05/02/2025,C1063,Neha, bengaluru ,Karnatak,Electronics,Headphones,4,799,UPI,Shipped
+10226,04/15/2025,C1139,Priya,delhi,,Fashon,Jeans,1,499,Cash on Delivery,Returned
+10227,20/04/2025,C1144,Anjali,lucknow,Uttar Pradesh,Electornics,Keyboard,1,799,,Delivered
+10228,2025-04-21,C1161,Neha,mumbai,maharashtra,Electornics,Headphones,4,299,Net Banking,Returned
+10229,2025-04-04,C1093,Rahul,Bengaluru,Karnataka,Fashon,T-Shirt,2,799,UPI,Shipped
+10230,2025-05-06,C1096,Anjali,Mumbai,maharashtra,Hme,Lamp,5,299,Net Banking,Shipped
+10231,13/05/2025,C1072,Karan,Bangalore,Karnataka,home,Lamp,1,499,Cash on Delivery,Shipped
+10232,14/04/2025,C1089,Amit,PUNE ,Maharashtra,electronics,Mouse,1,1299,Net Banking,Shipped
+10233,02/02/2025,C1158,Karan,Delhi,NCT Delhi,Fashon,Jeans,4,1999,Cash on Delivery,Shipped
+10234,04/14/2025,C1088,Karan,Pune,maharashtra,Hme,Lamp,3,1299,UPI,Shipped
+10235,06-Mar-2025,C1026,Priya,delhi,Delhi,Home,Chair,1,999999,UPI,Cancelled
+10236,02/02/2025,C1095,Anjali,delhi,Delhi,Hme,Chair,1,1999,,Returned
+10237,20-Mar-2025,C1196,Vikram,Mumbai,Maharastra,fashion,Jeans,999,799,,Cancelled
+10238,07-Mar-2025,C1191,Rahul,Bengaluru,Karnatak,Fashon,Jeans,4,1999,Card,Shipped
+10239,13-Mar-2025,C1028,Karan,New Delhi,Delhi,electronics,Keyboard,3,499,Cash on Delivery,Cancelled
+10240,14/06/2025,C1167,Priya,Lucknow,Uttar Pradesh,Fashon,Jeans,4,1999,Card,Cancelled
+10241,2025-02-27,C1162,Vikram,Bombay,Maharastra,home,Chair,3,1999,Card,Cancelled
+10242,10/01/2025,C1165,Sneha,Pune,maharashtra,fashion,T-Shirt,4,499,UPI,Delivered
+10243,22/05/2025,C1082,Priya,Bombay,maharashtra,Home,Chair,3,1299,Card,Shipped
+10244,09/06/2025,C1121,Priya,mumbai,Maharastra,fashion,Jeans,2,999999,,Cancelled
+10245,21/04/2025,C1060,Neha,Lucknow,Uttar Pradesh,home,Lamp,4,799,,Delivered
+10246,10-Feb-2025,C1198,Rahul,Mumbai,Maharastra,fashion,Jeans,0,1299,Cash on Delivery,Delivered
+10247,05/15/2025,C1014,Rahul, bengaluru ,Karnataka,home,Lamp,5,799,Card,Returned
+10248,20-Jan-2025,C1064,Priya,Lucknow,UttarPradesh,Fashion,Jeans,4,1299,Net Banking,Returned
+10249,2025-01-02,C1174,Vikram,lucknow,UttarPradesh,home,Lamp,1,1299,,Returned
+10250,2025-03-21,C1051,Sneha, MUMBAI ,Maharastra,electronics,Mouse,0,1299,UPI,Shipped
+10251,24/02/2025,C1001,Vikram, MUMBAI ,maharashtra,Fashion,T-Shirt,5,499,UPI,Cancelled
+10252,23-Jan-2025,C1032,Sneha,delhi,Delhi,Electornics,Keyboard,3,1299,Net Banking,Returned
+10253,14-Apr-2025,C1113,Vikram,Delhi,Delhi,home,Chair,1,299,UPI,Delivered
+10254,22/04/2025,C1115,Anjali,New Delhi,Delhi,Fashon,Jeans,2,799,Card,Shipped
+10255,08/05/2025,C1013,Vikram,New Delhi,NCT Delhi,Fashon,T-Shirt,5,1999,Net Banking,Shipped
+10256,19-Mar-2025,C1196,Anjali,lucknow,UttarPradesh,home,Lamp,1,1299,,Cancelled
+10257,16/06/2025,C1081,Priya,mumbai,maharashtra,electronics,Mouse,3,299,Cash on Delivery,Shipped
+10258,05/10/2025,C1046,Amit,Mumbai,maharashtra,electronics,Keyboard,4,299,UPI,Cancelled
+10259,06-May-2025,C1073,Vikram,Lucknow,UttarPradesh,Home,Lamp,3,299,Net Banking,Returned
+10260,06/28/2025,C1062,Amit,PUNE ,Maharastra,Fashon,T-Shirt,2,1999,,Delivered
+10261,04/17/2025,C1200,Priya,Poona,maharashtra,Electornics,Mouse,3,1299,Card,Cancelled
+10262,03/28/2025,C1054,Vikram,Bengaluru,Karnatak,Fashon,Jeans,4,1299,Card,Cancelled
+10263,13-Jun-2025,C1089,Sneha, bengaluru ,Karnataka,Electronic,Keyboard,3,1999,Card,Delivered
+10264,12/02/2025,C1007,Neha,Delhi,NCT Delhi,Fashon,T-Shirt,4,499,,Cancelled
+10265,2025-01-05,C1108,Karan,mumbai,Maharastra,Fashon,T-Shirt,5,499,UPI,Shipped
+10266,06/28/2025,C1171,Karan,lucknow,UttarPradesh,Electronics,Headphones,1,799,Card,Delivered
+10267,02/14/2025,C1127,Amit,delhi,NCT Delhi,Fashon,Jeans,3,799,UPI,Returned
+10268,18/05/2025,C1044,Vikram,delhi,NCT Delhi,Fashon,Jeans,3,799,Cash on Delivery,Cancelled
+10269,26/06/2025,C1184,Amit,Lucknow,Uttar Pradesh,home,Chair,4,499,Card,Cancelled
+10270,2025-01-17,C1060,Karan, MUMBAI ,maharashtra,Fashon,T-Shirt,5,299,Net Banking,Delivered
+10271,15/01/2025,C1092,Vikram,Lucknow,UP,Home,Chair,3,799,Card,Shipped
+10272,27/02/2025,C1039,Priya,PUNE ,maharashtra,Electornics,Keyboard,3,1299,,Cancelled
+10273,11/03/2025,C1073,Anjali,lucknow,UttarPradesh,Hme,Chair,4,1999,Net Banking,Cancelled
+10274,2025-02-03,C1148,Vikram,Pune,Maharastra,fashion,Jeans,4,1299,Net Banking,Shipped
+10275,24-Jan-2025,C1051,Vikram,PUNE ,maharashtra,Home,Lamp,5,499,UPI,Cancelled
+10276,06-Mar-2025,C1117,Neha,Lucknow,Uttar Pradesh,Electronics,Keyboard,4,799,,Returned
+10277,2025-06-12,C1158,Sneha,Mumbai,Maharashtra,fashion,Jeans,2,799,,Shipped
+10278,15/03/2025,C1186,Vikram,Pune,Maharashtra,electronics,Headphones,2,799,Cash on Delivery,Returned
+10279,01/30/2025,C1140,Priya,Pune,maharashtra,electronics,Headphones,4,1999,Cash on Delivery,Shipped
+10280,01/12/2025,C1111,Vikram, bengaluru ,Karnataka,Hme,Lamp,5,299,Cash on Delivery,Delivered
+10281,07/04/2025,C1068,Neha,Bangalore,Karnataka,Hme,Lamp,5,799,,Cancelled
+10282,03/06/2025,C1039,Anjali,New Delhi,Delhi,Fashion,Jeans,5,299,Net Banking,Delivered
+10283,2025-06-03,C1183,Neha,lucknow,UttarPradesh,fashion,T-Shirt,4,499,Cash on Delivery,Delivered
+10284,03/14/2025,C1010,Amit,Bengaluru,Karnataka,electronics,Keyboard,5,799,Cash on Delivery,Cancelled
+10285,02/08/2025,C1038,Anjali,PUNE ,Maharastra,home,Lamp,1,1299,Card,Cancelled
+10286,20-Jun-2025,C1029,Amit,Mumbai,maharashtra,Electronic,Keyboard,3,1999,UPI,Shipped
+10287,27/04/2025,C1121,Rahul,Lucknow,UttarPradesh,Fashon,Jeans,5,799,UPI,Cancelled
+10288,2025-01-05,C1115,Rahul,Poona,,Electronic,Keyboard,3,1299,Cash on Delivery,Delivered
+10289,03/20/2025,C1143,Anjali,Bombay,Maharashtra,Fashon,T-Shirt,1,299,Card,Shipped
+10290,03/23/2025,C1084,Neha,Delhi,NCT Delhi,Electronic,Headphones,1,499,Card,Cancelled
+10291,04/19/2025,C1155,Anjali,Mumbai,Maharastra,Fashion,Jeans,2,1299,UPI,Delivered
+10292,25-Apr-2025,C1094,Karan,Pune,Maharastra,Fashon,T-Shirt,4,1999,Card,Cancelled
+10293,17-Jun-2025,C1072,Vikram,Bengaluru,Karnataka,Fashon,T-Shirt,4,299,Cash on Delivery,Cancelled
+10294,2025-04-30,C1053,Amit,Mumbai,Maharastra,Fashion,T-Shirt,4,1999,,Shipped
+10295,2025-04-14,C1152,Vikram,delhi,NCT Delhi,Home,Lamp,5,499,Card,Cancelled
+10296,09-Feb-2025,C1177,Amit,New Delhi,,Fashion,T-Shirt,3,1299,,Cancelled
+10297,2025-01-27,C1084,Amit,PUNE ,Maharashtra,Fashion,T-Shirt,1,299,Card,Delivered
+10298,01/04/2025,C1049,Priya,Bombay,maharashtra,Fashion,Jeans,1,1999,Card,Delivered
+10299,06/18/2025,C1186,Amit,lucknow,UttarPradesh,Electronics,Mouse,3,1299,,Cancelled
+10300,06/17/2025,C1067,Vikram,delhi,Delhi,fashion,T-Shirt,1,1999,UPI,Shipped
+10301,17-Jun-2025,C1022,Priya,mumbai,maharashtra,Electornics,Headphones,2,499,Card,Returned
+10302,01/20/2025,C1130,Priya, bengaluru ,Karnatak,home,Chair,3,499,Card,Shipped
+10303,19-Feb-2025,C1175,Amit, bengaluru ,Karnataka,Home,Chair,2,299,Net Banking,Shipped
+10304,20/05/2025,C1140,Sneha,Lucknow,Uttar Pradesh,fashion,T-Shirt,4,499,Cash on Delivery,Returned
+10305,2025-04-28,C1073,Anjali, bengaluru ,Karnataka,Electronic,Headphones,2,1999,UPI,Returned
+10306,01/08/2025,C1088,Sneha, MUMBAI ,Maharastra,Fashon,T-Shirt,5,1999,Card,Shipped
+10307,2025-02-10,C1074,Priya,Lucknow,Uttar Pradesh,Hme,,1,1299,Cash on Delivery,Shipped
+10308,04/12/2025,C1116,Vikram,Delhi,NCT Delhi,Home,Lamp,4,1999,Cash on Delivery,Delivered
+10309,16/02/2025,C1122,Priya,mumbai,Maharashtra,Hme,Lamp,4,499,Cash on Delivery,Cancelled
+10310,2025-05-20,C1105,Vikram,Pune,Maharashtra,electronics,Mouse,5,299,Card,Returned
+10311,06/29/2025,C1147,Neha, bengaluru ,Karnatak,fashion,Jeans,4,799,Net Banking,Delivered
+10312,2025-06-09,C1023,Priya,PUNE ,Maharashtra,fashion,Jeans,4,1999,UPI,Shipped
+10313,2025-05-15,C1133,Karan, bengaluru ,Karnatak,Fashion,Jeans,5,499,Net Banking,Returned
+10314,15-Jan-2025,C1010,Anjali,delhi,Delhi,Hme,Lamp,2,299,UPI,Cancelled
+10315,13/01/2025,C1101,Anjali,Bombay,Maharashtra,Electronic,Headphones,3,299,Card,Returned
+10316,2025-03-25,C1172,Sneha,PUNE ,Maharastra,Home,Chair,5,799,,Shipped
+10317,2025-06-03,C1181,Vikram,PUNE ,maharashtra,Electronics,Mouse,1,499,,Cancelled
+10318,2025-05-07,C1197,Amit,Lucknow,UP,Electronics,Mouse,5,1299,Net Banking,Shipped
+10319,06/03/2025,C1057,Priya,Lucknow,UP,Electronics,Keyboard,2,1299,Card,Cancelled
+10320,09-Jun-2025,C1025,Anjali,Lucknow,UP,Home,Lamp,2,1299,UPI,Shipped
+10321,2025-01-27,C1187,Vikram, bengaluru ,Karnataka,Fashion,T-Shirt,0,799,Net Banking,Cancelled
+10322,01/07/2025,C1140,Karan,Bombay,Maharashtra,Hme,Lamp,4,499,Cash on Delivery,Returned
+10323,2025-01-05,C1012,Rahul,PUNE ,Maharashtra,Hme,,1,799,UPI,Delivered
+10324,06/06/2025,C1034,Anjali,mumbai,Maharastra,Fashon,Jeans,3,799,Card,Returned
+10325,2025-02-20,C1083,Anjali,Bengaluru,Karnatak,home,Lamp,2,299,Card,Cancelled
+10326,23/06/2025,C1085,Priya,Bangalore,Karnatak,home,Lamp,1,1999,UPI,Shipped
+10327,01/14/2025,C1180,Karan,Pune,Maharashtra,Hme,Chair,4,1299,,Returned
+10328,2025-03-11,C1129,Neha, MUMBAI ,maharashtra,fashion,T-Shirt,2,1999,,Shipped
+10329,04/15/2025,C1044,Rahul,Poona,Maharastra,Fashon,Jeans,1,499,Cash on Delivery,Delivered
+10330,01/27/2025,C1162,Vikram, bengaluru ,Karnatak,Home,Chair,2,299,Net Banking,Delivered
+10331,04-Mar-2025,C1085,Sneha,PUNE ,maharashtra,Electronics,Keyboard,1,299,UPI,Shipped
+10332,2025-02-01,C1181,Vikram,PUNE ,Maharastra,Electornics,,3,499,Cash on Delivery,Shipped
+10333,24/02/2025,C1186,Priya,Delhi,Delhi,Fashion,Jeans,2,499,Net Banking,Delivered
+10334,2025-05-05,C1182,Priya,New Delhi,Delhi,Home,Lamp,4,799,,Delivered
+10335,28-May-2025,C1149,Amit, MUMBAI ,Maharashtra,Electronic,Mouse,2,1299,Cash on Delivery,Returned
+10336,06/13/2025,C1122,Anjali,Delhi,NCT Delhi,Fashon,Jeans,2,799,UPI,Delivered
+10337,03/24/2025,C1006,Priya,Bengaluru,Karnatak,Electronic,Headphones,5,999999,UPI,Returned
+10338,06/17/2025,C1157,Amit,Mumbai,Maharashtra,Electornics,,1,499,Card,Returned
+10339,04-Feb-2025,C1170,Amit,Bangalore,Karnataka,Fashon,T-Shirt,4,1299,,Delivered
+10340,10-May-2025,C1104,Rahul,delhi,Delhi,home,Chair,2,1999,,Shipped
+10341,25/04/2025,C1065,Rahul,Mumbai,Maharashtra,Hme,Lamp,3,1299,Card,Returned
+10342,2025-02-08,C1065,Rahul,delhi,NCT Delhi,Home,Chair,2,499,UPI,Returned
+10343,2025-06-29,C1185,Vikram,New Delhi,NCT Delhi,home,Chair,3,1999,UPI,Returned
+10344,10-Jan-2025,C1142,Karan,New Delhi,NCT Delhi,home,Lamp,3,299,Cash on Delivery,Delivered
+10345,2025-03-21,C1033,Amit,Bangalore,Karnataka,Hme,Chair,3,799,UPI,Delivered
+10346,04/06/2025,C1145,Vikram,PUNE ,Maharashtra,electronics,Mouse,-2,799,UPI,Delivered
+10347,19/02/2025,C1187,Sneha, bengaluru ,Karnataka,Fashion,T-Shirt,5,499,,Delivered
+10348,2025-05-31,C1078,Rahul,mumbai,Maharastra,Fashon,T-Shirt,4,1299,Card,Cancelled
+10349,22-Apr-2025,C1165,Vikram,Bangalore,Karnatak,electronics,Keyboard,1,499,Cash on Delivery,Cancelled
+10350,25-Jun-2025,C1186,Neha,Poona,Maharashtra,Electronics,Mouse,5,1299,Net Banking,Cancelled
+10351,2025-03-10,C1008,Rahul, bengaluru ,Karnatak,Electronics,Mouse,5,1299,Card,Cancelled
+10352,2025-06-14,C1108,Amit,Lucknow,UttarPradesh,Electronic,Keyboard,1,1999,Cash on Delivery,Shipped
+10353,22/03/2025,C1013,Sneha,Lucknow,Uttar Pradesh,Home,Lamp,5,799,Cash on Delivery,Delivered
+10354,03/23/2025,C1145,Karan,delhi,Delhi,home,Lamp,2,299,,Cancelled
+10355,01-Jun-2025,C1005,Vikram,Lucknow,UP,Home,Lamp,2,1299,UPI,Shipped
+10356,05/03/2025,C1116,Rahul,New Delhi,,Hme,Chair,1,799,Net Banking,Cancelled
+10357,04/22/2025,C1071,Amit,PUNE ,Maharashtra,home,Lamp,5,799,Net Banking,Shipped
+10358,05/09/2025,C1190,Neha,Delhi,NCT Delhi,fashion,Jeans,1,1299,Card,Cancelled
+10359,27-Apr-2025,C1049,Karan, bengaluru ,Karnataka,Home,Lamp,5,1999,,Cancelled
+10360,22-Jan-2025,C1154,Neha,Mumbai,Maharashtra,Fashon,Jeans,5,1999,,Delivered
+10361,04/01/2025,C1026,Anjali,Poona,Maharashtra,Home,Chair,2,1299,Net Banking,Cancelled
+10362,15-May-2025,C1187,Vikram, MUMBAI ,Maharastra,fashion,T-Shirt,5,499,Net Banking,Shipped
+10363,2025-01-11,C1015,Karan,Mumbai,maharashtra,Fashion,T-Shirt,2,1999,Card,Cancelled
+10364,23-Apr-2025,C1002,Sneha, bengaluru ,Karnatak,home,Lamp,4,799,Card,Delivered
+10365,14-Jun-2025,C1185,Rahul,Bangalore,Karnatak,Fashion,T-Shirt,4,1299,Net Banking,Returned
+10366,2025-01-11,C1039,Rahul, bengaluru ,Karnatak,Hme,Lamp,1,299,Card,Shipped
+10367,10-Mar-2025,C1168,Rahul,Bengaluru,Karnataka,electronics,Mouse,2,1299,,Shipped
+10368,2025-06-12,C1006,Vikram,Bengaluru,Karnatak,Hme,Lamp,4,799,Cash on Delivery,Returned
+10369,19-Feb-2025,C1055,Rahul,Bangalore,Karnataka,fashion,Jeans,1,1299,UPI,Shipped
+10370,20/02/2025,C1025,Vikram,Bangalore,Karnataka,electronics,,5,499,,Cancelled
+10371,24/01/2025,C1024,Neha,PUNE ,,Fashion,T-Shirt,5,299,UPI,Delivered
+10372,05-Apr-2025,C1143,Neha,Bombay,Maharashtra,Electronics,Mouse,3,499,Net Banking,Shipped
+10373,05-Feb-2025,C1119,Rahul,delhi,Delhi,Hme,Lamp,4,499,,Shipped
+10374,29/06/2025,C1130,Karan, bengaluru ,Karnataka,Fashon,T-Shirt,1,1299,Card,Returned
+10375,21-Feb-2025,C1021,Priya,Lucknow,UP,Electronic,Headphones,3,299,UPI,Delivered
+10376,12-Apr-2025,C1099,Priya,Bombay,Maharashtra,electronics,Headphones,3,299,Card,Returned
+10377,03/01/2025,C1009,Priya,Pune,maharashtra,Electornics,Mouse,2,299,Net Banking,Returned
+10378,11/05/2025,C1159,Karan,Poona,maharashtra,Fashion,T-Shirt,4,499,Net Banking,Shipped
+10379,07-Feb-2025,C1184,Priya,mumbai,maharashtra,Electornics,Keyboard,5,1999,Card,Delivered
+10380,20/03/2025,C1152,Anjali,New Delhi,NCT Delhi,Fashion,Jeans,5,299,,Delivered
+10381,31-Mar-2025,C1145,Priya,PUNE ,Maharastra,Home,Chair,2,1299,Card,Shipped
+10382,02-Jun-2025,C1134,Vikram,delhi,NCT Delhi,Fashion,Jeans,4,499,Cash on Delivery,Returned
+10383,21/04/2025,C1065,Priya,delhi,NCT Delhi,Home,Chair,5,799,Card,Shipped
+10384,2025-05-21,C1036,Sneha,Mumbai,Maharashtra,Fashion,Jeans,1,299,UPI,Delivered
+10385,11/03/2025,C1064,Amit, MUMBAI ,maharashtra,home,Lamp,4,1299,UPI,Cancelled
+10386,27-Mar-2025,C1065,Rahul,Pune,maharashtra,Electronic,Mouse,2,799,Card,Returned
+10387,10/05/2025,C1189,Anjali,PUNE ,maharashtra,Fashion,Jeans,3,799,UPI,Returned
+10388,2025-03-20,C1001,Neha,Lucknow,UttarPradesh,Electronic,Keyboard,2,499,Card,Shipped
+10389,24-Jun-2025,C1094,Karan,Lucknow,UP,home,Chair,4,1299,UPI,Shipped
+10390,02-May-2025,C1050,Neha,Mumbai,Maharastra,Electronic,Mouse,3,799,,Returned
+10391,2025-01-05,C1113,Karan,PUNE ,Maharashtra,home,Chair,3,1999,UPI,Cancelled
+10392,01/01/2025,C1195,Priya,Bangalore,Karnatak,Electornics,Keyboard,3,299,UPI,Returned
+10393,04/22/2025,C1178,Priya,delhi,Delhi,Fashon,Jeans,3,499,Net Banking,Shipped
+10394,04/20/2025,C1138,Amit,New Delhi,NCT Delhi,home,Chair,5,1299,Cash on Delivery,Delivered
+10395,17/02/2025,C1019,Sneha,Bangalore,Karnatak,Fashon,Jeans,5,499,UPI,Returned
+10396,13/02/2025,C1055,Rahul, MUMBAI ,Maharastra,Fashon,Jeans,4,1999,,Shipped
+10397,01/14/2025,C1057,Vikram,Pune,Maharashtra,Electronics,Mouse,2,799,UPI,Returned
+10398,2025-06-03,C1177,Karan, bengaluru ,Karnatak,Home,Lamp,0,299,,Cancelled
+10399,21-May-2025,C1061,Karan,Lucknow,UP,electronics,Keyboard,1,499,UPI,Delivered
+10400,08-Jan-2025,C1190,Karan,Lucknow,UP,Fashion,T-Shirt,4,299,,Delivered
+10401,13-Apr-2025,C1124,Amit,Bombay,Maharastra,Fashion,T-Shirt,4,1299,Cash on Delivery,Shipped
+10402,2025-03-26,C1079,Rahul,New Delhi,Delhi,Electornics,Mouse,5,1999,UPI,Delivered
+10403,2025-03-04,C1196,Neha, bengaluru ,Karnatak,fashion,Jeans,3,799,Card,Delivered
+10404,12-Jun-2025,C1168,Vikram,Mumbai,Maharashtra,Fashion,T-Shirt,3,299,UPI,Delivered
+10405,03/14/2025,C1094,Priya,Bombay,maharashtra,Electornics,Keyboard,5,799,,Cancelled
+10406,14/01/2025,C1103,Amit,Pune,Maharashtra,Fashion,Jeans,5,799,Card,Shipped
+10407,09-Jan-2025,C1192,Anjali,Poona,Maharashtra,Electronic,Mouse,5,799,,Delivered
+10408,11/06/2025,C1125,Sneha,Lucknow,Uttar Pradesh,electronics,Mouse,3,299,Card,Cancelled
+10409,01/24/2025,C1053,Sneha,lucknow,UP,Electronic,Headphones,3,499,,Shipped
+10410,04/05/2025,C1087,Neha,mumbai,Maharashtra,electronics,,2,299,,Returned
+10411,05/14/2025,C1138,Neha,lucknow,UttarPradesh,Hme,Lamp,1,1299,Net Banking,Cancelled
+10412,2025-03-12,C1036,Rahul,New Delhi,Delhi,Electornics,Headphones,3,799,UPI,Returned
+10413,05/28/2025,C1178,Karan,PUNE ,Maharashtra,Hme,,3,799,UPI,Shipped
+10414,2025-04-04,C1150,Sneha,Mumbai,Maharastra,electronics,Mouse,2,1999,UPI,Shipped
+10415,21-Feb-2025,C1172,Anjali,lucknow,UP,Fashon,T-Shirt,0,499,UPI,Cancelled
+10416,05/22/2025,C1105,Rahul,lucknow,Uttar Pradesh,Fashon,T-Shirt,2,1999,Card,Shipped
+10417,2025-05-13,C1200,Anjali,New Delhi,Delhi,Home,Chair,3,799,UPI,Shipped
+10418,2025-01-22,C1147,Sneha,Mumbai,Maharashtra,home,Lamp,3,1999,UPI,Returned
+10419,01/21/2025,C1188,Amit,Poona,Maharastra,Fashon,Jeans,3,299,Cash on Delivery,Shipped
+10420,12/06/2025,C1082,Sneha,lucknow,Uttar Pradesh,Home,Chair,4,1299,Cash on Delivery,Cancelled
+10421,2025-05-12,C1045,Vikram, bengaluru ,Karnataka,Hme,Lamp,2,1999,Net Banking,Returned
+10422,17/04/2025,C1014,Neha,Bengaluru,Karnatak,Hme,Lamp,2,1299,Cash on Delivery,Returned
+10423,09/02/2025,C1200,Sneha, MUMBAI ,Maharastra,Home,Lamp,2,1999,Cash on Delivery,Shipped
+10424,04/14/2025,C1054,Rahul,Pune,maharashtra,Home,Lamp,3,499,Cash on Delivery,Shipped
+10425,23-Mar-2025,C1040,Rahul,lucknow,UttarPradesh,Electronics,Headphones,2,299,UPI,Delivered
+10426,2025-02-25,C1074,Priya,Delhi,NCT Delhi,Fashon,T-Shirt,3,1299,Cash on Delivery,Returned
+10427,01/15/2025,C1185,Neha,Lucknow,UP,Home,Chair,2,299,Card,Returned
+10428,2025-03-03,C1116,Anjali,Poona,maharashtra,fashion,T-Shirt,2,799,,Delivered
+10429,2025-01-27,C1182,Sneha,delhi,NCT Delhi,Electornics,Keyboard,2,1299,Net Banking,Returned
+10430,25/06/2025,C1112,Karan,PUNE ,Maharashtra,Hme,Lamp,2,499,Cash on Delivery,Shipped
+10431,15/06/2025,C1028,Priya,Bombay,maharashtra,electronics,Keyboard,5,499,Cash on Delivery,Cancelled
+10432,05/22/2025,C1029,Priya,Bengaluru,Karnatak,Fashion,T-Shirt,5,1299,Card,Returned
+10433,06/11/2025,C1084,Karan, bengaluru ,Karnatak,fashion,T-Shirt,2,1999,,Cancelled
+10434,08/05/2025,C1006,Amit,Pune,Maharastra,Home,Chair,4,799,Cash on Delivery,Returned
+10435,08/02/2025,C1172,Amit,mumbai,Maharastra,fashion,Jeans,1,799,Cash on Delivery,Shipped
+10436,17-Jun-2025,C1052,Rahul,delhi,Delhi,electronics,Keyboard,1,1299,,Delivered
+10437,27/01/2025,C1091,Neha,Delhi,Delhi,Fashion,T-Shirt,4,799,UPI,Shipped
+10438,04-Mar-2025,C1005,Rahul,Delhi,Delhi,Electronic,Keyboard,4,1299,Cash on Delivery,Delivered
+10439,2025-02-14,C1109,Rahul, MUMBAI ,Maharashtra,home,Chair,4,499,Cash on Delivery,Shipped
+10440,04/20/2025,C1087,Sneha,Bangalore,Karnataka,home,Chair,4,499,Cash on Delivery,Delivered
+10441,01/27/2025,C1021,Vikram,Delhi,NCT Delhi,home,Chair,999,799,,Cancelled
+10442,25-Jan-2025,C1167,Anjali,Poona,maharashtra,Fashon,T-Shirt,4,1999,Net Banking,Delivered
+10443,04/03/2025,C1192,Sneha,lucknow,Uttar Pradesh,Electornics,Keyboard,4,299,Cash on Delivery,Returned
+10444,2025-04-11,C1093,Rahul,New Delhi,NCT Delhi,Hme,Chair,5,499,Card,Cancelled
+10445,06-Apr-2025,C1027,Sneha, bengaluru ,Karnatak,home,Chair,1,1999,,Shipped
+10446,02/23/2025,C1038,Sneha,New Delhi,NCT Delhi,home,Lamp,2,799,Cash on Delivery,Cancelled
+10447,01-Jun-2025,C1117,Sneha,Delhi,NCT Delhi,Hme,Lamp,2,799,UPI,Shipped
+10448,2025-03-19,C1115,Karan,Mumbai,Maharastra,Hme,Chair,3,299,,Shipped
+10449,13-Jun-2025,C1158,Rahul,mumbai,Maharastra,electronics,Headphones,3,1999,Cash on Delivery,Shipped
+10450,26/01/2025,C1097,Anjali,Mumbai,,Electronic,Mouse,4,1299,Cash on Delivery,Shipped
+10451,2025-02-16,C1000,Neha,PUNE ,Maharastra,Hme,Chair,4,799,Net Banking,Cancelled
+10452,03/27/2025,C1137,Karan,mumbai,Maharashtra,fashion,T-Shirt,5,499,,Delivered
+10453,2025-01-02,C1078,Karan,Bangalore,Karnatak,electronics,Mouse,1,1999,Cash on Delivery,Delivered
+10454,04/07/2025,C1039,Karan,New Delhi,Delhi,Fashion,Jeans,1,499,Cash on Delivery,Delivered
+10455,02/05/2025,C1122,Sneha,lucknow,UP,Fashion,T-Shirt,2,-100,Net Banking,Delivered
+10456,01/16/2025,C1098,Rahul,Bangalore,,Hme,Chair,3,499,,Returned
+10457,25-Apr-2025,C1170,Sneha, bengaluru ,Karnatak,home,Lamp,2,299,Net Banking,Cancelled
+10458,01-Jan-2025,C1190,Anjali,New Delhi,NCT Delhi,Fashon,T-Shirt,5,1299,,Cancelled
+10459,01/10/2025,C1037,Karan,Bengaluru,Karnatak,Home,Lamp,3,1299,,Delivered
+10460,23/03/2025,C1039,Anjali,Bangalore,Karnatak,Electornics,Keyboard,1,1999,UPI,Returned
+10461,02/20/2025,C1063,Vikram,Delhi,Delhi,Fashion,Jeans,4,799,Card,Shipped
+10462,20-Jan-2025,C1008,Neha,delhi,Delhi,Fashion,Jeans,4,799,Card,Delivered
+10463,03/26/2025,C1081,Rahul,Poona,Maharastra,Electronics,Mouse,5,1299,Net Banking,Returned
+10464,01-Apr-2025,C1094,Amit, bengaluru ,Karnataka,Electronics,Mouse,1,499,Cash on Delivery,Returned
+10465,01/21/2025,C1012,Anjali,delhi,NCT Delhi,Fashon,Jeans,2,1999,Card,Cancelled
+10466,02/18/2025,C1078,Sneha,Poona,maharashtra,Hme,Lamp,2,1999,Cash on Delivery,Delivered
+10467,05/03/2025,C1072,Sneha,mumbai,maharashtra,Home,Lamp,3,799,,Delivered
+10468,12-Mar-2025,C1172,Sneha, bengaluru ,,fashion,T-Shirt,1,799,,Returned
+10469,2025-02-05,C1083,Anjali,New Delhi,Delhi,Hme,Chair,4,1999,UPI,Shipped
+10470,04/21/2025,C1167,Amit,Lucknow,Uttar Pradesh,Hme,Lamp,1,499,Cash on Delivery,Cancelled
+10471,27-May-2025,C1114,Anjali,Lucknow,UP,Home,Lamp,5,799,Card,Shipped
+10472,31/03/2025,C1175,Priya,Poona,Maharastra,home,Chair,1,299,Net Banking,Shipped
+10473,27-May-2025,C1116,Priya,delhi,,Electronic,Mouse,4,799,Cash on Delivery,Cancelled
+10474,2025-01-15,C1025,Rahul,PUNE ,Maharastra,Fashon,Jeans,5,1999,Card,Delivered
+10475,04/25/2025,C1041,Vikram,lucknow,UP,Fashion,T-Shirt,5,799,Cash on Delivery,Delivered
+10476,2025-02-18,C1088,Neha,Delhi,NCT Delhi,Fashon,T-Shirt,2,799,UPI,Cancelled
+10477,22/01/2025,C1144,Anjali,Bangalore,Karnataka,Electornics,Keyboard,2,499,Card,Shipped
+10478,2025-06-16,C1056,Neha,PUNE ,Maharashtra,home,Chair,5,1299,UPI,Delivered
+10479,06/26/2025,C1169,Karan,Bombay,maharashtra,home,Lamp,3,499,Cash on Delivery,Shipped
+10480,03/14/2025,C1023,Karan,Bengaluru,Karnataka,Electornics,Mouse,2,1999,,Shipped
+10481,2025-01-29,C1055,Rahul,Delhi,Delhi,Fashion,T-Shirt,5,499,,Shipped
+10482,11-Feb-2025,C1144,Sneha,Lucknow,UttarPradesh,home,Lamp,3,1999,Card,Shipped
+10483,2025-03-10,C1196,Sneha,lucknow,UP,Fashon,T-Shirt,3,1999,UPI,Delivered
+10484,2025-06-05,C1046,Sneha,Bangalore,Karnataka,Home,Lamp,4,299,,Returned
+10485,03/05/2025,C1172,Neha,lucknow,Uttar Pradesh,Electornics,Mouse,1,799,Cash on Delivery,Returned
+10486,2025-04-14,C1068,Amit, MUMBAI ,Maharastra,fashion,Jeans,2,1299,UPI,Delivered
+10487,2025-03-29,C1032,Rahul,PUNE ,Maharastra,home,Chair,4,1999,,Shipped
+10488,18/05/2025,C1143,Neha, bengaluru ,Karnataka,home,Chair,4,299,Cash on Delivery,Cancelled
+10489,2025-02-20,C1148,Karan,Poona,Maharastra,Hme,,4,1999,Cash on Delivery,Delivered
+10490,23-Jan-2025,C1142,Sneha,mumbai,Maharashtra,Fashion,T-Shirt,3,499,,Shipped
+10491,08-Jun-2025,C1166,Vikram, bengaluru ,Karnataka,home,Chair,3,1299,Net Banking,Delivered
+10492,01/22/2025,C1043,Neha,lucknow,UP,fashion,Jeans,2,1999,UPI,Cancelled
+10493,2025-06-29,C1023,Rahul, bengaluru ,Karnataka,electronics,Keyboard,2,1999,UPI,Cancelled
+10494,2025-02-03,C1050,Priya,Pune,Maharashtra,fashion,T-Shirt,5,1299,,Delivered
+10495,2025-06-28,C1197,Vikram,Lucknow,Uttar Pradesh,fashion,T-Shirt,3,299,UPI,Cancelled
+10496,2025-03-31,C1189,Anjali,Lucknow,UP,Hme,Lamp,2,1999,Net Banking,Delivered
+10497,2025-04-24,C1053,Karan,PUNE ,Maharashtra,Fashon,T-Shirt,3,799,UPI,Shipped
+10498,01/17/2025,C1016,Anjali,Lucknow,UttarPradesh,Electornics,Mouse,4,299,Net Banking,Cancelled
+10499,2025-01-20,C1180,Rahul,New Delhi,Delhi,home,Lamp,5,1299,Card,Cancelled
+10500,2025-05-04,C1123,Anjali,Lucknow,Uttar Pradesh,Fashon,Jeans,4,799,UPI,Shipped
+10501,2025-05-22,C1191,Rahul, bengaluru ,Karnatak,Fashion,Jeans,2,1999,UPI,Shipped
+10502,03/09/2025,C1036,Neha,lucknow,UP,fashion,T-Shirt,3,1999,Net Banking,Returned
+10503,17/03/2025,C1062,Neha,delhi,,Hme,Lamp,3,1299,Net Banking,Returned
+10504,24/02/2025,C1160,Rahul,Pune,Maharastra,Home,Lamp,3,499,Card,Cancelled
+10505,2025-02-24,C1142,Neha,Bombay,Maharashtra,Electornics,Keyboard,2,799,Cash on Delivery,Cancelled
+10506,01/23/2025,C1107,Anjali,Lucknow,UP,Home,,1,499,,Shipped
+10507,28/06/2025,C1115,Anjali,Bombay,Maharashtra,fashion,T-Shirt,4,499,UPI,Shipped
+10508,01/13/2025,C1063,Sneha,Bombay,Maharastra,fashion,Jeans,1,799,Net Banking,Returned
+10509,2025-05-10,C1011,Sneha,delhi,NCT Delhi,Hme,Chair,5,299,Net Banking,Shipped
+10510,09-May-2025,C1163,Neha,Poona,Maharashtra,Fashon,T-Shirt,4,299,Net Banking,Cancelled
+10511,13-Mar-2025,C1096,Karan,Lucknow,Uttar Pradesh,fashion,T-Shirt,5,799,Card,Cancelled
+10512,25/03/2025,C1063,Sneha,mumbai,Maharashtra,Fashon,Jeans,4,1999,,Delivered
+10513,04-Jun-2025,C1185,Karan,Mumbai,maharashtra,Home,Chair,5,1999,Net Banking,Cancelled
+10514,04/18/2025,C1022,Rahul,PUNE ,maharashtra,Electornics,Headphones,3,1299,,Returned
+10515,05/03/2025,C1082,Neha,lucknow,Uttar Pradesh,home,Lamp,4,1299,Card,Returned
+10516,06/01/2025,C1199,Rahul, bengaluru ,Karnatak,fashion,Jeans,4,1299,UPI,Delivered
+10517,2025-02-22,C1020,Sneha,Bengaluru,Karnataka,home,Chair,5,1299,Net Banking,Shipped
+10518,16/01/2025,C1123,Karan,Poona,Maharashtra,Fashon,,2,799,Card,Cancelled
+10519,03-May-2025,C1131,Priya,Pune,maharashtra,Electronic,Keyboard,4,299,,Cancelled
+10520,08-Jan-2025,C1164,Vikram,Bengaluru,Karnataka,Fashion,T-Shirt,4,799,Net Banking,Shipped
+10521,22/02/2025,C1005,Sneha,delhi,,Electornics,Mouse,3,499,,Cancelled
+10522,01/07/2025,C1181,Karan,Mumbai,Maharashtra,Electornics,Keyboard,4,1299,,Returned
+10523,10/06/2025,C1199,Neha,Lucknow,UP,Electronics,Mouse,4,499,Net Banking,Returned
+10524,02/13/2025,C1108,Priya,New Delhi,NCT Delhi,home,Chair,4,799,Net Banking,Shipped
+10525,2025-03-28,C1077,Vikram,PUNE ,maharashtra,Hme,Chair,4,1999,Card,Returned
+10526,06/12/2025,C1183,Priya,Bangalore,Karnatak,home,Lamp,1,1299,,Delivered
+10527,2025-05-03,C1039,Sneha,lucknow,UP,Hme,Chair,2,1299,Card,Shipped
+10528,13-Mar-2025,C1106,Sneha,PUNE ,,Electornics,Mouse,2,299,Card,Cancelled
+10529,2025-02-18,C1082,Vikram,Delhi,Delhi,Electronics,Keyboard,3,499,UPI,Cancelled
+10530,09/02/2025,C1071,Vikram,Bombay,Maharastra,Hme,Chair,2,1999,Net Banking,Delivered
+10531,02/11/2025,C1029,Neha,PUNE ,maharashtra,Fashon,Jeans,3,1299,Cash on Delivery,Cancelled
+10532,04/16/2025,C1027,Anjali,Pune,Maharastra,Fashon,Jeans,1,799,,Returned
+10533,01/30/2025,C1176,Vikram,Poona,Maharastra,Electronic,Headphones,3,799,Cash on Delivery,Cancelled
+10534,2025-05-07,C1043,Anjali,Mumbai,maharashtra,Fashon,T-Shirt,5,299,Net Banking,Returned
+10535,29-Jun-2025,C1052,Karan,Bangalore,Karnatak,Home,Chair,2,299,,Shipped
+10536,2025-02-03,C1027,Rahul,Lucknow,Uttar Pradesh,Electornics,Mouse,4,499,Cash on Delivery,Shipped
+10537,03/18/2025,C1003,Rahul,Poona,Maharastra,Electornics,Headphones,5,1299,UPI,Delivered
+10538,28-May-2025,C1175,Sneha,Delhi,NCT Delhi,Home,Lamp,5,1999,Card,Returned
+10539,27-Jun-2025,C1009,Karan,Bengaluru,Karnataka,fashion,T-Shirt,5,799,Card,Returned
+10540,20/03/2025,C1128,Anjali,Bombay,Maharashtra,fashion,Jeans,4,1999,UPI,Delivered
+10541,23-Jan-2025,C1006,Anjali, MUMBAI ,maharashtra,Electronics,Mouse,2,499,UPI,Shipped
+10542,2025-05-06,C1019,Rahul,lucknow,UttarPradesh,Electornics,Mouse,4,799,Net Banking,Delivered
+10543,29/03/2025,C1101,Neha,lucknow,UttarPradesh,Electornics,Mouse,3,1299,,Returned
+10544,24-Jan-2025,C1141,Priya,PUNE ,maharashtra,Fashon,Jeans,3,499,UPI,Delivered
+10545,2025-01-07,C1189,Vikram,lucknow,UttarPradesh,Electronic,Mouse,1,299,UPI,Delivered
+10546,05/31/2025,C1179,Amit, MUMBAI ,Maharastra,Fashon,T-Shirt,5,499,Card,Returned
+10547,2025-03-23,C1181,Priya,Bangalore,Karnataka,Electronics,Mouse,2,299,UPI,Shipped
+10548,2025-05-12,C1153,Karan,lucknow,UttarPradesh,Electronics,Keyboard,5,299,UPI,Returned
+10549,02-May-2025,C1129,Karan, MUMBAI ,maharashtra,Fashon,Jeans,5,1299,Net Banking,Returned
+10550,04/03/2025,C1094,Priya,Poona,Maharastra,Hme,Chair,3,799,UPI,Delivered
+10551,22-Mar-2025,C1057,Vikram,Bengaluru,Karnatak,electronics,Headphones,3,1299,,Cancelled
+10552,01/17/2025,C1145,Amit,Bengaluru,Karnatak,Home,Lamp,3,799,Net Banking,Delivered
+10553,2025-01-02,C1028,Karan,Delhi,Delhi,Electronic,Headphones,4,499,Net Banking,Returned
+10554,01/05/2025,C1070,Anjali,Poona,Maharashtra,Home,Chair,5,799,Net Banking,Returned
+10555,17/04/2025,C1128,Neha,Delhi,Delhi,home,Chair,5,499,UPI,Delivered
+10556,04/14/2025,C1007,Priya,Lucknow,UttarPradesh,Fashon,Jeans,3,299,UPI,Cancelled
+10557,2025-01-06,C1131,Rahul,lucknow,UP,Hme,Chair,3,999999,,Cancelled
+10558,02/01/2025,C1018,Priya,delhi,Delhi,Electornics,,5,1299,Net Banking,Shipped
+10559,01/03/2025,C1018,Anjali,Poona,Maharashtra,fashion,Jeans,1,1999,Card,Returned
+10560,24-May-2025,C1150,Priya,Bengaluru,,Home,Chair,3,499,Net Banking,Delivered
+10561,2025-03-12,C1156,Rahul,delhi,Delhi,electronics,Keyboard,3,799,UPI,Returned
+10562,25/05/2025,C1151,Neha,New Delhi,Delhi,Home,Chair,2,499,UPI,Cancelled
+10563,17-Jun-2025,C1188,Priya,New Delhi,NCT Delhi,Hme,Lamp,1,499,Net Banking,Returned
+10564,08/01/2025,C1160,Amit,Lucknow,UttarPradesh,Electronic,Mouse,1,799,Net Banking,Shipped
+10565,03/21/2025,C1103,Rahul,Delhi,,Fashion,Jeans,0,799,UPI,Cancelled
+10566,26/02/2025,C1028,Anjali,Pune,Maharashtra,Electronic,Headphones,2,1299,Card,Delivered
+10567,2025-04-23,C1104,Sneha,New Delhi,NCT Delhi,Fashon,Jeans,5,1999,,Delivered
+10568,14/06/2025,C1109,Sneha,Poona,maharashtra,Hme,Lamp,2,1299,Card,Shipped
+10569,2025-06-10,C1139,Karan,Poona,Maharastra,home,Lamp,3,299,Card,Shipped
+10570,01-Jun-2025,C1019,Rahul,Delhi,NCT Delhi,Fashion,T-Shirt,3,1299,Card,Cancelled
+10571,05/18/2025,C1095,Sneha,Delhi,NCT Delhi,electronics,Mouse,3,499,Net Banking,Returned
+10572,23/02/2025,C1145,Sneha,mumbai,maharashtra,fashion,T-Shirt,3,1299,UPI,Delivered
+10573,05/21/2025,C1038,Sneha,mumbai,maharashtra,Hme,Lamp,3,299,,Cancelled
+10574,06/04/2025,C1113,Anjali,PUNE ,Maharashtra,home,Chair,5,299,Net Banking,Cancelled
+10575,04/27/2025,C1029,Sneha,Bangalore,Karnataka,home,Lamp,2,299,UPI,Delivered
+10576,14/06/2025,C1066,Vikram,Poona,Maharastra,Hme,Chair,5,499,Cash on Delivery,Returned
+10577,25/05/2025,C1116,Sneha,New Delhi,NCT Delhi,fashion,Jeans,4,1999,Cash on Delivery,Cancelled
+10578,29-May-2025,C1026,Anjali,PUNE ,Maharashtra,home,Chair,3,1299,Card,Cancelled
+10579,30/03/2025,C1083,Neha,Pune,Maharashtra,home,Lamp,3,1999,Net Banking,Shipped
+10580,03/08/2025,C1111,Priya,Delhi,Delhi,Fashon,Jeans,2,1299,UPI,Delivered
+10581,27/02/2025,C1119,Anjali,delhi,Delhi,Fashon,T-Shirt,1,1299,,Shipped
+10582,2025-04-04,C1076,Amit,delhi,NCT Delhi,electronics,Headphones,2,799,Net Banking,Delivered
+10583,03/24/2025,C1008,Vikram,lucknow,UttarPradesh,Home,Lamp,5,499,,Shipped
+10584,11-May-2025,C1036,Anjali,Delhi,Delhi,home,Chair,2,499,Card,Returned
+10585,03-Mar-2025,C1066,Anjali,lucknow,Uttar Pradesh,Home,Chair,4,799,,Returned
+10586,03/31/2025,C1188,Rahul,mumbai,Maharastra,Hme,Lamp,2,499,,Shipped
+10587,10-Jan-2025,C1077,Rahul,delhi,Delhi,Electronic,Mouse,5,799,Net Banking,Returned
+10588,03-Mar-2025,C1060,Karan,lucknow,UP,Electronics,Headphones,4,1999,Cash on Delivery,Shipped
+10589,01/21/2025,C1166,Neha,Lucknow,UttarPradesh,Home,Chair,4,799,UPI,Shipped
+10590,05/07/2025,C1189,Priya,PUNE ,Maharastra,Fashon,Jeans,2,799,,Cancelled
+10591,15-May-2025,C1159,Sneha,Delhi,NCT Delhi,Fashon,Jeans,4,1999,Card,Delivered
+10592,27/06/2025,C1073,Neha, MUMBAI ,maharashtra,Electornics,Keyboard,3,799,Card,Cancelled
+10593,10/01/2025,C1172,Anjali,Lucknow,UttarPradesh,Fashon,T-Shirt,5,799,UPI,Returned
+10594,04/15/2025,C1081,Anjali,New Delhi,NCT Delhi,fashion,Jeans,2,299,UPI,Delivered
+10595,01/28/2025,C1187,Amit,lucknow,Uttar Pradesh,Fashion,Jeans,1,1299,Cash on Delivery,Returned
+10596,06/05/2025,C1055,Neha,delhi,Delhi,fashion,T-Shirt,3,299,Net Banking,Cancelled
+10597,01/15/2025,C1047,Rahul,Pune,Maharashtra,Fashion,T-Shirt,3,1999,Net Banking,Delivered
+10598,26-Apr-2025,C1088,Anjali,lucknow,UP,Electornics,Headphones,4,1299,Card,Cancelled
+10599,2025-04-18,C1048,Vikram, bengaluru ,Karnataka,Home,Chair,5,1299,,Returned
+10600,01/10/2025,C1156,Neha,Bengaluru,Karnatak,Home,Lamp,5,1999,,Cancelled
+10601,06/16/2025,C1060,Anjali,Bangalore,Karnatak,Hme,Lamp,1,1999,,Shipped
+10602,03/06/2025,C1128,Amit,Delhi,Delhi,Home,Lamp,3,499,Card,Delivered
+10603,08-May-2025,C1058,Rahul, bengaluru ,Karnatak,Fashion,T-Shirt,4,1299,Net Banking,Returned
+10604,05/21/2025,C1101,Priya,Lucknow,UP,Home,Lamp,5,1999,UPI,Returned
+10605,05/27/2025,C1001,Priya,Bangalore,Karnatak,Fashion,,3,1299,Card,Delivered
+10606,10-May-2025,C1113,Priya,PUNE ,Maharastra,electronics,Mouse,4,1299,UPI,Returned
+10607,12/03/2025,C1037,Anjali, bengaluru ,Karnatak,Hme,Lamp,3,299,Cash on Delivery,Shipped
+10608,2025-03-31,C1074,Priya,PUNE ,maharashtra,Hme,Chair,1,1999,,Returned
+10609,2025-06-04,C1043,Vikram, bengaluru ,Karnatak,Electornics,Mouse,3,1999,UPI,Shipped
+10610,27/04/2025,C1077,Sneha,Poona,Maharastra,Fashon,T-Shirt,2,799,Cash on Delivery,Returned
+10611,23/05/2025,C1142,Amit,Pune,Maharashtra,Fashion,Jeans,1,1999,UPI,Returned
+10612,25/02/2025,C1173,Rahul, MUMBAI ,maharashtra,Fashion,T-Shirt,2,1299,UPI,Shipped
+10613,2025-06-19,C1118,Neha,Pune,maharashtra,Home,Lamp,5,299,Cash on Delivery,Shipped
+10614,05/16/2025,C1022,Anjali,Bombay,maharashtra,home,Lamp,5,799,UPI,Shipped
+10615,10-May-2025,C1150,Amit, MUMBAI ,Maharastra,home,Chair,3,299,Cash on Delivery,Shipped
+10616,2025-06-28,C1149,Amit,lucknow,UttarPradesh,Fashion,T-Shirt,2,499,Net Banking,Cancelled
+10617,10/03/2025,C1061,Anjali,New Delhi,Delhi,Electronic,Mouse,2,799,Card,Shipped
+10618,26/06/2025,C1016,Sneha,Lucknow,UP,Fashion,Jeans,5,499,Cash on Delivery,Cancelled
+10619,2025-01-15,C1200,Amit,lucknow,Uttar Pradesh,Fashon,Jeans,1,499,Net Banking,Cancelled
+10620,03/12/2025,C1121,Vikram,Poona,Maharastra,Fashion,T-Shirt,1,1299,Net Banking,Shipped
+10621,2025-02-23,C1132,Priya,Delhi,,fashion,T-Shirt,5,999999,Card,Shipped
+10622,04/28/2025,C1101,Priya,Bombay,Maharashtra,Fashion,Jeans,3,1999,UPI,Shipped
+10623,29-Apr-2025,C1163,Karan, bengaluru ,Karnataka,Fashon,T-Shirt,2,499,Cash on Delivery,Cancelled
+10624,01/23/2025,C1019,Karan,delhi,NCT Delhi,Fashon,T-Shirt,2,1299,Card,Cancelled
+10625,05/15/2025,C1096,Amit,Bengaluru,Karnataka,electronics,Headphones,5,1299,Net Banking,Returned
+10626,02/28/2025,C1161,Vikram,Pune,Maharashtra,Fashon,T-Shirt,4,1299,Card,Returned
+10627,12-Feb-2025,C1010,Amit,Bombay,,Hme,Chair,5,799,UPI,Shipped
+10628,01/04/2025,C1055,Amit,New Delhi,Delhi,Fashion,T-Shirt,1,1299,Card,Shipped
+10629,04/06/2025,C1120,Amit, MUMBAI ,,Hme,Chair,5,299,,Returned
+10630,30/04/2025,C1027,Priya,lucknow,Uttar Pradesh,Fashion,T-Shirt,1,1999,Net Banking,Delivered
+10631,15/06/2025,C1034,Priya,Bengaluru,Karnataka,Home,Lamp,5,499,UPI,Returned
+10632,02/04/2025,C1098,Neha,Lucknow,UttarPradesh,Electronics,,2,1999,Cash on Delivery,Returned
+10633,23-Jun-2025,C1122,Vikram,Poona,Maharastra,Home,Chair,0,299,UPI,Delivered
+10634,02/26/2025,C1002,Anjali,Bengaluru,Karnataka,Home,Chair,4,999999,UPI,Delivered
+10635,11-Jun-2025,C1058,Rahul,Poona,maharashtra,Fashon,T-Shirt,5,1299,Cash on Delivery,Cancelled
+10636,2025-05-23,C1080,Karan,Bengaluru,Karnatak,Hme,Lamp,2,299,Cash on Delivery,Shipped
+10637,07-Jan-2025,C1082,Anjali,Pune,Maharastra,Hme,Chair,5,299,,Delivered
+10638,2025-06-25,C1194,Neha,Lucknow,,electronics,Headphones,1,1299,Net Banking,Returned
+10639,2025-04-10,C1144,Neha, bengaluru ,Karnatak,electronics,Headphones,3,799,Card,Returned
+10640,04-Jan-2025,C1032,Rahul, bengaluru ,Karnatak,Electronic,Headphones,4,299,Net Banking,Delivered
+10641,28-Apr-2025,C1165,Sneha,delhi,Delhi,Fashion,Jeans,3,1299,Cash on Delivery,Shipped
+10642,20-Jan-2025,C1044,Sneha,Bengaluru,Karnatak,Hme,Lamp,2,1999,Card,Cancelled
+10643,2025-01-11,C1165,Amit, bengaluru ,Karnataka,home,Chair,5,1999,Cash on Delivery,Delivered
+10644,27/04/2025,C1160,Vikram,lucknow,UttarPradesh,Fashion,T-Shirt,3,1999,,Shipped
+10645,11-Mar-2025,C1095,Amit,Mumbai,maharashtra,Home,Chair,5,799,Cash on Delivery,Delivered
+10646,06/09/2025,C1114,Anjali,PUNE ,Maharastra,fashion,T-Shirt,1,799,,Returned
+10647,03/30/2025,C1001,Neha,Poona,Maharastra,fashion,T-Shirt,5,799,UPI,Delivered
+10648,22-Jun-2025,C1165,Rahul,Poona,maharashtra,Home,Chair,2,499,Net Banking,Delivered
+10649,2025-06-18,C1044,Neha,Lucknow,UP,Hme,Lamp,4,299,,Cancelled
+10650,04/07/2025,C1082,Rahul,Poona,Maharashtra,Fashion,T-Shirt,4,799,,Cancelled
+10651,25-Feb-2025,C1139,Priya, MUMBAI ,maharashtra,Fashion,T-Shirt,1,799,Cash on Delivery,Delivered
+10652,17-May-2025,C1086,Karan,lucknow,UttarPradesh,Electronics,Mouse,4,299,UPI,Delivered
+10653,2025-05-29,C1150,Karan, bengaluru ,Karnatak,Fashion,Jeans,3,299,Card,Shipped
+10654,12/02/2025,C1095,Sneha, MUMBAI ,maharashtra,Electronics,Headphones,2,799,UPI,Returned
+10655,03-Mar-2025,C1200,Vikram,Poona,Maharastra,Electronic,Keyboard,1,1299,,Shipped
+10656,2025-02-05,C1182,Rahul,Bangalore,Karnataka,home,Chair,4,299,Cash on Delivery,Delivered
+10657,15-Apr-2025,C1077,Neha,PUNE ,Maharashtra,Electronic,Keyboard,3,1999,Net Banking,Delivered
+10658,28-May-2025,C1075,Vikram,Mumbai,Maharastra,Fashion,Jeans,3,499,Card,Returned
+10659,22-Mar-2025,C1154,Sneha, bengaluru ,Karnataka,Fashon,T-Shirt,2,1299,UPI,Shipped
+10660,04/14/2025,C1182,Karan,delhi,Delhi,fashion,T-Shirt,2,499,,Cancelled
+10661,16-Feb-2025,C1058,Vikram,Pune,Maharastra,Home,Chair,5,799,,Returned
+10662,07/05/2025,C1101,Neha,Poona,Maharastra,fashion,T-Shirt,1,1299,UPI,Cancelled
+10663,07-May-2025,C1182,Sneha,Bangalore,Karnatak,Fashion,T-Shirt,1,299,Net Banking,Cancelled
+10664,03-May-2025,C1069,Amit,lucknow,UttarPradesh,fashion,T-Shirt,3,1999,Card,Shipped
+10665,06-Feb-2025,C1188,Neha,Pune,maharashtra,Hme,Chair,1,1999,Cash on Delivery,Shipped
+10666,16-Apr-2025,C1137,Vikram,Poona,Maharashtra,Fashon,,4,299,,Returned
+10667,02/10/2025,C1199,Anjali, MUMBAI ,maharashtra,Home,Chair,4,1999,Card,Delivered
+10668,2025-02-10,C1148,Priya,Bombay,Maharashtra,electronics,Headphones,1,499,Cash on Delivery,Cancelled
+10669,04/26/2025,C1175,Vikram,Bengaluru,Karnataka,home,Lamp,3,499,UPI,Returned
+10670,03/19/2025,C1177,Amit,New Delhi,Delhi,electronics,Keyboard,3,299,Cash on Delivery,Returned
+10671,18/05/2025,C1111,Anjali, bengaluru ,Karnataka,Fashion,T-Shirt,1,1999,Card,Delivered
+10672,2025-03-10,C1002,Neha,delhi,Delhi,home,,5,499,Card,Delivered
+10673,02-May-2025,C1075,Vikram,Bengaluru,Karnataka,Electornics,Keyboard,5,299,,Returned
+10674,2025-04-07,C1152,Anjali,lucknow,,Fashon,T-Shirt,4,1299,Net Banking,Delivered
+10675,03/18/2025,C1108,Karan,Poona,maharashtra,Electornics,Mouse,1,799,UPI,Returned
+10676,2025-02-21,C1119,Karan,delhi,Delhi,Fashion,Jeans,1,499,Card,Shipped
+10677,2025-04-29,C1109,Rahul,Delhi,NCT Delhi,Fashon,Jeans,5,499,Cash on Delivery,Returned
+10678,14/06/2025,C1067,Neha,PUNE ,maharashtra,Electronics,Headphones,3,799,,Shipped
+10679,2025-04-06,C1180,Sneha,delhi,NCT Delhi,Hme,Lamp,3,1299,Cash on Delivery,Shipped
+10680,24/05/2025,C1146,Priya,Mumbai,maharashtra,Fashon,Jeans,1,799,Card,Returned
+10681,2025-06-03,C1141,Anjali,PUNE ,Maharastra,Hme,Chair,2,299,Cash on Delivery,Shipped
+10682,11-May-2025,C1020,Rahul,New Delhi,NCT Delhi,home,Lamp,3,299,,Delivered
+10683,01/27/2025,C1143,Anjali,Bangalore,Karnataka,home,Lamp,5,1999,Cash on Delivery,Delivered
+10684,31/03/2025,C1047,Anjali,Bombay,maharashtra,fashion,T-Shirt,5,499,Net Banking,Returned
+10685,13-Apr-2025,C1048,Amit, bengaluru ,Karnataka,Electronics,Keyboard,5,1299,Card,Returned
+10686,24/01/2025,C1050,Anjali,Bengaluru,Karnataka,Fashon,T-Shirt,2,299,,Returned
+10687,2025-04-05,C1121,Vikram,Pune,Maharastra,Electronics,Keyboard,2,1299,UPI,Returned
+10688,2025-06-07,C1190,Sneha,Delhi,,electronics,Mouse,5,299,Net Banking,Returned
+10689,2025-02-12,C1143,Neha,New Delhi,Delhi,home,Chair,2,299,Cash on Delivery,Delivered
+10690,04/12/2025,C1160,Neha, bengaluru ,Karnataka,Electronics,Mouse,1,1999,UPI,Returned
+10691,23-Jun-2025,C1048,Neha, MUMBAI ,Maharastra,Home,Chair,4,799,Cash on Delivery,Cancelled
+10692,2025-01-08,C1001,Karan,lucknow,UttarPradesh,Hme,Lamp,1,499,Cash on Delivery,Cancelled
+10693,17/05/2025,C1129,Karan,lucknow,Uttar Pradesh,home,Lamp,2,299,,Cancelled
+10694,01/06/2025,C1107,Priya,New Delhi,,Fashion,T-Shirt,2,999999,Net Banking,Returned
+10695,05/04/2025,C1095,Amit,lucknow,Uttar Pradesh,Home,Lamp,2,1299,Card,Cancelled
+10696,06/28/2025,C1029,Priya,Lucknow,Uttar Pradesh,fashion,Jeans,3,499,Cash on Delivery,Cancelled
+10697,01/31/2025,C1149,Sneha,Delhi,Delhi,Fashon,Jeans,1,1999,Cash on Delivery,Returned
+10698,23/03/2025,C1116,Rahul,Poona,Maharashtra,Electronic,Keyboard,3,499,,Cancelled
+10699,06/20/2025,C1159,Amit, MUMBAI ,,fashion,Jeans,2,799,UPI,Returned
+10700,2025-05-11,C1113,Neha,Lucknow,UttarPradesh,home,Chair,3,1299,Cash on Delivery,Returned
+10134,2025-04-24,C1146,Rahul, MUMBAI ,,fashion,Jeans,5,1999,,Returned
+10398,2025-06-03,C1177,Karan, bengaluru ,Karnatak,Home,Lamp,0,299,,Cancelled
+10699,06/20/2025,C1159,Amit, MUMBAI ,,fashion,Jeans,2,799,UPI,Returned
+10020,11-Mar-2025,C1194,Rahul,lucknow,UP,Electronics,Keyboard,1,499,Cash on Delivery,Delivered
+10425,23-Mar-2025,C1040,Rahul,lucknow,UttarPradesh,Electronics,Headphones,2,299,UPI,Delivered
+10288,2025-01-05,C1115,Rahul,Poona,,Electronic,Keyboard,3,1299,Cash on Delivery,Delivered
+10127,27-May-2025,C1091,Sneha,Lucknow,UP,Hme,Chair,2,299,UPI,Delivered
+10151,13/04/2025,C1019,Sneha,Pune,maharashtra,Fashon,T-Shirt,1,499,Cash on Delivery,Shipped
+10402,2025-03-26,C1079,Rahul,New Delhi,Delhi,Electornics,Mouse,5,1999,UPI,Delivered
+10408,11/06/2025,C1125,Sneha,Lucknow,Uttar Pradesh,electronics,Mouse,3,299,Card,Cancelled
+10247,05/15/2025,C1014,Rahul, bengaluru ,Karnataka,home,Lamp,5,799,Card,Returned
+10659,22-Mar-2025,C1154,Sneha, bengaluru ,Karnataka,Fashon,T-Shirt,2,1299,UPI,Shipped
+10440,04/20/2025,C1087,Sneha,Bangalore,Karnataka,home,Chair,4,499,Cash on Delivery,Delivered
+10265,2025-01-05,C1108,Karan,mumbai,Maharastra,Fashon,T-Shirt,5,499,UPI,Shipped
+10568,14/06/2025,C1109,Sneha,Poona,maharashtra,Hme,Lamp,2,1299,Card,Shipped
+10240,14/06/2025,C1167,Priya,Lucknow,Uttar Pradesh,Fashon,Jeans,4,1999,Card,Cancelled
+10187,2025-01-18,C1131,Sneha,Bangalore,Karnataka,Fashion,T-Shirt,1,499,Cash on Delivery,Cancelled
+10250,2025-03-21,C1051,Sneha, MUMBAI ,Maharastra,electronics,Mouse,0,1299,UPI,Shipped
+10586,03/31/2025,C1188,Rahul,mumbai,Maharastra,Hme,Lamp,2,499,,Shipped
+10094,08-Mar-2025,C1184,Karan,Delhi,Delhi,Fashion,T-Shirt,1,499,Net Banking,Cancelled

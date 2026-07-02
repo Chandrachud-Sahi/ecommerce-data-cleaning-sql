@@ -8,7 +8,7 @@ A structured, SQL-based data cleaning workflow applied to a synthetic e-commerce
 
 This project documents a complete data cleaning pipeline applied to a 720-row, 12-column e-commerce sales dataset. The raw data was deliberately seeded with the categories of data quality issues encountered routinely in production environments: missing values, duplicate records, inconsistent text formatting, logically invalid numeric entries, and statistical outliers.
 
-Using a twelve-step SQL pipeline built around a consistent three-part procedure — detection via diagnostic query, remediation via a defined and auditable rule, and documentation of the rationale behind each decision — the dataset was reduced from 720 to 700 rows following exact-duplicate removal, with every other identified issue either resolved directly or explicitly documented as a known limitation.
+Using a SQL pipeline built around a consistent three-part procedure — detection via diagnostic query, remediation via a defined and auditable rule, and documentation of the rationale behind each decision — the dataset was reduced from 720 to 700 rows following exact-duplicate removal, with every other identified issue either resolved directly or explicitly documented as a known limitation.
 
 The cleaned dataset is ready to support core reporting use cases, including revenue and order-value reporting, category- and city-level sales analysis, and customer segmentation, once known limitations (below) are accounted for.
 

@@ -12,6 +12,8 @@ Using a SQL pipeline built around a consistent three-part procedure — detectio
 
 The cleaned dataset is ready to support core reporting use cases, including revenue and order-value reporting, category- and city-level sales analysis, and customer segmentation, once known limitations (below) are accounted for.
 
+<img width="1301" height="650" alt="ScreenShot Tool -20260706143544" src="https://github.com/user-attachments/assets/f8b61a47-edd6-487b-8cf1-5bb0a1b771c6" />
+
 ---
 
 ## Business Problem
